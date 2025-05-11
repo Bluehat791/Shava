@@ -1,0 +1,640 @@
+{
+  "snacks": [
+    {
+      "name": "Сырные палочки 6шт",
+      "price": 230,
+      "description": "Сыр моцарелла в панировке.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741336917933,
+      "photoId": "AgACAgIAAxkBAAIKomfKsVUAAdhBChWz-6P_Yqj_u2vVHwACausxGweHUEr6FNBeMGY0UAEAAwIAA3kAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741336917400_AgACAgIAAxkBAAIKomfKsVUAAdhBChWz-6P_Yqj_u2vVHwACausxGweHUEr6FNBeMGY0UAEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Крылышки 6шт",
+      "price": 300,
+      "description": "Куриные крылышки в панировке.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741336961980,
+      "photoId": "AgACAgIAAxkBAAIKqWfKsWn4A2ZITnh74vdlsLUWz99WAAJr6zEbB4dQSmUi99Ort2DMAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741336961465_AgACAgIAAxkBAAIKqWfKsWn4A2ZITnh74vdlsLUWz99WAAJr6zEbB4dQSmUi99Ort2DMAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Роял фри",
+      "price": 250,
+      "description": "Картофель фри, бекон, сырный соус, барбекю соус.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337045592,
+      "photoId": "AgACAgIAAxkBAAIKwmfKsdQgMdLx63pcP1XCF-GUqWxqAAJ06zEbB4dQSm4erj-A_8CZAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337045105_AgACAgIAAxkBAAIKwmfKsdQgMdLx63pcP1XCF-GUqWxqAAJ06zEbB4dQSm4erj-A_8CZAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Картофель фри",
+      "price": 130,
+      "description": "Картофель фри, соль, специи.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337072545,
+      "photoId": "AgACAgIAAxkBAAIKy2fKse_LAg4B8467EcLCuCQIFq-eAAJ16zEbB4dQSvd55s_AmMntAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337072061_AgACAgIAAxkBAAIKy2fKse_LAg4B8467EcLCuCQIFq-eAAJ16zEbB4dQSvd55s_AmMntAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Картофель по деревенский",
+      "price": 150,
+      "description": "Картофель по деревенский, соль, специи.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337104466,
+      "photoId": "AgACAgIAAxkBAAIK1GfKsg9VdsbXlpO9SPx_TvB0jkeaAAJ26zEbB4dQSg4pqCQiw0VuAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337103982_AgACAgIAAxkBAAIK1GfKsg9VdsbXlpO9SPx_TvB0jkeaAAJ26zEbB4dQSg4pqCQiw0VuAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Наггетсы 10шт",
+      "price": 200,
+      "description": "Куренные Наггетсы в панировке",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337148102,
+      "photoId": "AgACAgIAAxkBAAIK22fKsitZaM2ZLU1-KS3c0KkbL4LIAAJ46zEbB4dQSjg5zdZ5hcTdAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337147607_AgACAgIAAxkBAAIK22fKsitZaM2ZLU1-KS3c0KkbL4LIAAJ46zEbB4dQSjg5zdZ5hcTdAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Наггетсы 5шт",
+      "price": 120,
+      "description": "Куриное Наггетсы в панировки",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337201816,
+      "photoId": "AgACAgIAAxkBAAIK7GfKsnHkuDHLnGHt3TwaP0IxEc86AAJ86zEbB4dQSlaoMAVU4nwcAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337201351_AgACAgIAAxkBAAIK7GfKsnHkuDHLnGHt3TwaP0IxEc86AAJ86zEbB4dQSlaoMAVU4nwcAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "9 Шт Креветки в панировки",
+      "price": 450,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337239112,
+      "photoId": "AgACAgIAAxkBAAIK92fKspaZM6q9XPTKUao1Bc0pTcCSAAJ-6zEbB4dQSlGMiqkkV-NtAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337238570_AgACAgIAAxkBAAIK92fKspaZM6q9XPTKUao1Bc0pTcCSAAJ-6zEbB4dQSlGMiqkkV-NtAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "6 Шт Креветки в панировке",
+      "price": 300,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337261364,
+      "photoId": "AgACAgIAAxkBAAIK92fKspaZM6q9XPTKUao1Bc0pTcCSAAJ-6zEbB4dQSlGMiqkkV-NtAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337260856_AgACAgIAAxkBAAIK92fKspaZM6q9XPTKUao1Bc0pTcCSAAJ-6zEbB4dQSlGMiqkkV-NtAQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "mainMenu": [
+    {
+      "name": "Гирос острый",
+      "price": 320,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, соус острый.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338064716,
+      "photoId": "AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338064192_AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Гирос Тейсти",
+      "price": 320,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, тейсти соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338082316,
+      "photoId": "AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338081787_AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Гирос классический",
+      "price": 320,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338103833,
+      "photoId": "AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338103347_AgACAgIAAxkBAAILrGfKtc9_xFGX67pwgQ8AAWLw0Qb5bgACrOsxGweHUErNGUwzQmseVgEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Гирос тортилья острый",
+      "price": 320,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, острый соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338125936,
+      "photoId": "AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338125424_AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос тортилья Тейсти",
+      "price": 320,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, Тейсти соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338173807,
+      "photoId": "AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338173317_AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос тортилья",
+      "price": 320,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338199216,
+      "photoId": "AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338198730_AgACAgIAAxkBAAILx2fKtg2rksnIy-XnBQP7thYl_8-1AAKu6zEbB4dQShMNbVQZ48iOAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Чикенбургер",
+      "price": 300,
+      "description": "Булочка с кунжутом, куриная котлета, лист салата, сыр, помидор, два вида соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338474774,
+      "photoId": "AgACAgIAAxkBAAIL8GfKt2qZMUwnvVtxsCtcYv8I6i39AALT6zEbB4dQSi5GTu2q_f4lAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338474289_AgACAgIAAxkBAAIL8GfKt2qZMUwnvVtxsCtcYv8I6i39AALT6zEbB4dQSi5GTu2q_f4lAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Хот-дог",
+      "price": 180,
+      "description": "Хрустящая булочка, сосиска куриная, помидор, маринованный огурец, пекинская капуста, морковь по корейски, фирменный соус, кетчуп.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338501460,
+      "photoId": "AgACAgIAAxkBAAIL-WfKt4TNDsQDuy1wTJxK_khJgtbQAALU6zEbB4dQStOcgsByNKRuAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338500940_AgACAgIAAxkBAAIL-WfKt4TNDsQDuy1wTJxK_khJgtbQAALU6zEbB4dQStOcgsByNKRuAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Фахитос",
+      "price": 300,
+      "description": "Булочка с кунжутом, куриное филе,оливки , маслины, кукуруза, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338715246,
+      "photoId": "AgACAgIAAxkBAAIMDmfKuFp4Jj7YRYxkMmJg2L4hyrXRAALY6zEbB4dQSp0Yy-gMuKKlAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338714720_AgACAgIAAxkBAAIMDmfKuFp4Jj7YRYxkMmJg2L4hyrXRAALY6zEbB4dQSp0Yy-gMuKKlAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Маленькая шаурма",
+      "price": 260,
+      "description": "Хрустящий лаваш, куриное филе, помидор, свежий огурец, пекинская капуста,картошка фри, фирменный соус",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338740576,
+      "photoId": "AgACAgIAAxkBAAIMF2fKuHMSeL_3iOHSN3OJVIY_uB6ZAALa6zEbB4dQSiiibKv7f9QSAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338740094_AgACAgIAAxkBAAIMF2fKuHMSeL_3iOHSN3OJVIY_uB6ZAALa6zEbB4dQSiiibKv7f9QSAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Большая шаурма",
+      "price": 300,
+      "description": "Хрустящий лаваш, куриное филе, помидор, свежий огурец, пекинская капуста,картошка фри, фирменный соус",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338763386,
+      "photoId": "AgACAgIAAxkBAAIMF2fKuHMSeL_3iOHSN3OJVIY_uB6ZAALa6zEbB4dQSiiibKv7f9QSAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338762902_AgACAgIAAxkBAAIMF2fKuHMSeL_3iOHSN3OJVIY_uB6ZAALa6zEbB4dQSiiibKv7f9QSAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гамбургер с яйцом",
+      "price": 400,
+      "description": "Булочка с кунжутом, говяжья котлета, два сыра, маринов. огурцы, лист салата, репчатый лук, помидор, соус, жаренное яйцо, паприка, соль.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338787675,
+      "photoId": "AgACAgIAAxkBAAIMKWfKuKI0MbLAnPsvK7DSaoSsJU1pAALb6zEbB4dQSphggL6GP0zDAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338787130_AgACAgIAAxkBAAIMKWfKuKI0MbLAnPsvK7DSaoSsJU1pAALb6zEbB4dQSphggL6GP0zDAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Рол с креветками",
+      "price": 400,
+      "description": "Сырная тортилья, креветки в панировки, помидор, огурец, салат айсберг, нежный соус на основе майонеза.",
+      "ingredients": [
+        {
+          "id": "1741337889295",
+          "name": "Сыр",
+          "price": 40
+        },
+        {
+          "id": "1741337957686",
+          "name": "Халапеньо",
+          "price": 40
+        },
+        {
+          "id": "1741337977242",
+          "name": "Бекон",
+          "price": 40
+        },
+        {
+          "id": "1741338000280",
+          "name": "Острый соус",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1741338827236,
+      "photoId": "AgACAgIAAxkBAAIMMmfKuMoSZLU4agHRI8lSE4Uwf1MXAALd6zEbB4dQSobiH0zf0Ng3AQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741338826705_AgACAgIAAxkBAAIMMmfKuMoSZLU4agHRI8lSE4Uwf1MXAALd6zEbB4dQSobiH0zf0Ng3AQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Флеш",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337300960,
+      "photoId": "AgACAgIAAxkBAAILCWfKstMLr3kXBC9YgO51hslJt1orAAKC6zEbB4dQSkpGTpM8SYzYAQADAgADeAADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337300511_AgACAgIAAxkBAAILCWfKstMLr3kXBC9YgO51hslJt1orAAKC6zEbB4dQSkpGTpM8SYzYAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Адреналин",
+      "price": 160,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337320345,
+      "photoId": "AgACAgIAAxkBAAILEmfKsufk_ySKiN5zvIqEkK7UuoE5AAKE6zEbB4dQSvZWWgw31cf1AQADAgADeAADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337319846_AgACAgIAAxkBAAILEmfKsufk_ySKiN5zvIqEkK7UuoE5AAKE6zEbB4dQSvZWWgw31cf1AQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Кола 0.33",
+      "price": 80,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337346005,
+      "photoId": "AgACAgIAAxkBAAILG2fKswHJVD26o6HXaZbQkYzEu5BcAAKF6zEbB4dQSlavvcTuQdAVAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337345548_AgACAgIAAxkBAAILG2fKswHJVD26o6HXaZbQkYzEu5BcAAKF6zEbB4dQSlavvcTuQdAVAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Кола 0.9",
+      "price": 130,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337393806,
+      "photoId": "AgACAgIAAxkBAAILK2fKszGrS79FX1NuAzmPYQehkDBfAAKH6zEbB4dQSn59tEEOm1ksAQADAgADeAADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337393366_AgACAgIAAxkBAAILK2fKszGrS79FX1NuAzmPYQehkDBfAAKH6zEbB4dQSn59tEEOm1ksAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Бонаква газ/негаз. 0.5",
+      "price": 65,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337421576,
+      "photoId": "AgACAgIAAxkBAAILNGfKs0x8RcdBHDBB3UV3gZY6OtsiAAKJ6zEbB4dQSqp6DLDqUEheAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337421127_AgACAgIAAxkBAAILNGfKs0x8RcdBHDBB3UV3gZY6OtsiAAKJ6zEbB4dQSqp6DLDqUEheAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Чай чёрный рич 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337458048,
+      "photoId": "AgACAgIAAxkBAAILPWfKs3Hr-C-65SLC7jVTRlVis_-UAAKK6zEbB4dQSvnBOyAt1uyLAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337457576_AgACAgIAAxkBAAILPWfKs3Hr-C-65SLC7jVTRlVis_-UAAKK6zEbB4dQSvnBOyAt1uyLAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Чай зелёный рич 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337480907,
+      "photoId": "AgACAgIAAxkBAAILRmfKs4hg7G10UYN-kze2BkGP2K3wAAKL6zEbB4dQSjBH89Nxvxe5AQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337480471_AgACAgIAAxkBAAILRmfKs4hg7G10UYN-kze2BkGP2K3wAAKL6zEbB4dQSjBH89Nxvxe5AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Фанта 0.9",
+      "price": 130,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337513362,
+      "photoId": "AgACAgIAAxkBAAILT2fKs6jYiydwvKX2pOpdz23bkPYtAAKM6zEbB4dQSs31e9VvXEIqAQADAgADeAADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337512943_AgACAgIAAxkBAAILT2fKs6jYiydwvKX2pOpdz23bkPYtAAKM6zEbB4dQSs31e9VvXEIqAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Фанта 0.33",
+      "price": 80,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337534336,
+      "photoId": "AgACAgIAAxkBAAILWGfKs70NYsSE_-lz9fGoc5XXTYkAA43rMRsHh1BKsow4AAH-UgABZwEAAwIAA3gAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337533909_AgACAgIAAxkBAAILWGfKs70NYsSE_-lz9fGoc5XXTYkAA43rMRsHh1BKsow4AAH-UgABZwEAAwIAA3gAAzYE.jpg"
+    },
+    {
+      "name": "Фанта 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337563071,
+      "photoId": "AgACAgIAAxkBAAILYWfKs9rF9YQOopH_XkzUH4TxS3BHAAKO6zEbB4dQSvvlk2ttZrYXAQADAgADeAADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337562634_AgACAgIAAxkBAAILYWfKs9rF9YQOopH_XkzUH4TxS3BHAAKO6zEbB4dQSvvlk2ttZrYXAQADAgADeAADNgQ.jpg"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "Соус сырный",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337600095,
+      "photoId": "AgACAgIAAxkBAAILamfKs_9WrhFrjVjbgT6SzukVEhxWAAKP6zEbB4dQSi-8aIqy9UppAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337599614_AgACAgIAAxkBAAILamfKs_9WrhFrjVjbgT6SzukVEhxWAAKP6zEbB4dQSi-8aIqy9UppAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Барбекю соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337632290,
+      "photoId": "AgACAgIAAxkBAAILc2fKtB9xqL0P6iyzeUi8710hi-aRAAKU6zEbB4dQSpB80tlFJwLIAQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337631812_AgACAgIAAxkBAAILc2fKtB9xqL0P6iyzeUi8710hi-aRAAKU6zEbB4dQSpB80tlFJwLIAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Терияки соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337656837,
+      "photoId": "AgACAgIAAxkBAAILfGfKtDg9TpBoAAFkqFod7aQMHBSVggACoOsxGweHUEph7NwI-TuHLgEAAwIAA3kAAzYE",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337656363_AgACAgIAAxkBAAILfGfKtDg9TpBoAAFkqFod7aQMHBSVggACoOsxGweHUEph7NwI-TuHLgEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Томатный соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1741337684763,
+      "photoId": "AgACAgIAAxkBAAILhWfKtFQbcLZ85IUDbnLysCSYbTlSAAKn6zEbB4dQSp7WNeHr_9D3AQADAgADeQADNgQ",
+      "photoUrl": "https://shavuha.rollyk.ru/api/images/1741337684256_AgACAgIAAxkBAAILhWfKtFQbcLZ85IUDbnLysCSYbTlSAAKn6zEbB4dQSp7WNeHr_9D3AQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "1741337977242",
+      "name": "Бекон",
+      "price": 40
+    },
+    {
+      "id": "1741338000280",
+      "name": "Острый соус",
+      "price": 0
+    }
+  ],
+  "currentCategory": null
+}

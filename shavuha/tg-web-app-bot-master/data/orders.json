@@ -1,0 +1,678 @@
+{
+  "orders": [
+    {
+      "id": 1739438217527,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Тест",
+          "price": 180,
+          "description": "Что-то там",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739432141122,
+          "photoId": "AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739432141068_AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ.jpg",
+          "finalPrice": 180,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Шаверма на тарелке с курицей",
+          "price": 400,
+          "description": "Филе курицы, огурец,  помидоры, салат Коул слоу, морковь острая, морковь острая, халапеньо, лаваш тонкий, соус, картофель фри.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739436678447,
+          "photoId": "AgACAgIAAxkBAAIBe2etsoZXDooFBW1f9__TcTWnmnPWAAK85jEbWsNxSRxihT6sRimiAQADAgADbQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739436678398_AgACAgIAAxkBAAIBe2etsoZXDooFBW1f9__TcTWnmnPWAAK85jEbWsNxSRxihT6sRimiAQADAgADbQADNgQ.jpg",
+          "finalPrice": 400,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Тест",
+          "price": 180,
+          "description": "Что-то там",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739432141122,
+          "photoId": "AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739432141068_AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ.jpg",
+          "finalPrice": 180,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 760,
+      "deliveryType": "delivery",
+      "phone": "+79287694712",
+      "address": "Садовая 12",
+      "status": "new",
+      "createdAt": "2025-02-13T09:16:57.527Z"
+    },
+    {
+      "id": 1739438275273,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Шаверма на тарелке с курицей",
+          "price": 400,
+          "description": "Филе курицы, огурец,  помидоры, салат Коул слоу, морковь острая, морковь острая, халапеньо, лаваш тонкий, соус, картофель фри.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739436678447,
+          "photoId": "AgACAgIAAxkBAAIBe2etsoZXDooFBW1f9__TcTWnmnPWAAK85jEbWsNxSRxihT6sRimiAQADAgADbQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739436678398_AgACAgIAAxkBAAIBe2etsoZXDooFBW1f9__TcTWnmnPWAAK85jEbWsNxSRxihT6sRimiAQADAgADbQADNgQ.jpg",
+          "finalPrice": 400,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Тест",
+          "price": 180,
+          "description": "Что-то там",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739432141122,
+          "photoId": "AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739432141068_AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ.jpg",
+          "finalPrice": 180,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Тест",
+          "price": 180,
+          "description": "Что-то там",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739432141122,
+          "photoId": "AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739432141068_AgACAgIAAxkBAAIBX2etoMy6-YFUtaaJpnWY1gKXMXuaAAI55jEbWsNxSVy11bE-oNADAQADAgADeQADNgQ.jpg",
+          "finalPrice": 180,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Кола 1,5л",
+          "price": 150,
+          "description": ".....",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739434735457,
+          "photoId": "AgACAgIAAxkBAAIBcWetqu9Y2O-dMZlXA8OvgY_HacR6AAKJ5jEbWsNxSXDABmpFYCwXAQADAgADbQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739434735414_AgACAgIAAxkBAAIBcWetqu9Y2O-dMZlXA8OvgY_HacR6AAKJ5jEbWsNxSXDABmpFYCwXAQADAgADbQADNgQ.jpg",
+          "finalPrice": 150,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 910,
+      "deliveryType": "pickup",
+      "phone": "+79287694712",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T09:17:55.273Z"
+    },
+    {
+      "id": 1739439071322,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": [],
+          "quantity": 1
+        },
+        {
+          "name": "Роял фри",
+          "price": 250,
+          "description": "Картофель фри, бекон, сырный соус, барбекю соус.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438797977,
+          "photoId": "AgACAgIAAxkBAAIBl2etus3PWiA2j5esXD1lacfpHPDcAALq6jEb3IRwSWNMS-yn40XSAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438797913_AgACAgIAAxkBAAIBl2etus3PWiA2j5esXD1lacfpHPDcAALq6jEb3IRwSWNMS-yn40XSAQADAgADeQADNgQ.jpg",
+          "finalPrice": 250,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 780,
+      "deliveryType": "delivery",
+      "phone": "+79287694712",
+      "address": "Красносельская 12",
+      "status": "new",
+      "createdAt": "2025-02-13T09:31:11.322Z"
+    },
+    {
+      "id": 1739446955800,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 600,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T11:42:35.800Z"
+    },
+    {
+      "id": 1739446982414,
+      "userId": 6497983961,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 600,
+      "deliveryType": "pickup",
+      "phone": "95333235#9",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T11:43:02.414Z"
+    },
+    {
+      "id": 1739447617170,
+      "userId": 6497983961,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 530,
+      "deliveryType": "pickup",
+      "phone": "95333235#9",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T11:53:37.170Z"
+    },
+    {
+      "id": 1739448025514,
+      "userId": 6497983961,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 600,
+      "deliveryType": "pickup",
+      "phone": "95333235#9",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T12:00:25.514Z"
+    },
+    {
+      "id": 1739462835112,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T16:07:15.112Z"
+    },
+    {
+      "id": 1739462922286,
+      "userId": 6497983961,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T16:08:42.286Z"
+    },
+    {
+      "id": 1739462975514,
+      "userId": 6497983961,
+      "products": [
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 230,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-13T16:09:35.514Z"
+    },
+    {
+      "id": 1739466091583,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": [],
+          "quantity": 2
+        },
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": [],
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 530,
+      "deliveryType": "delivery",
+      "phone": "9287694712",
+      "address": "Платова 6а",
+      "status": "new",
+      "createdAt": "2025-02-13T17:01:31.583Z"
+    },
+    {
+      "id": 1739466269358,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 600,
+      "deliveryType": "delivery",
+      "phone": "79287694712",
+      "address": "Платова 6а",
+      "status": "new",
+      "createdAt": "2025-02-13T17:04:29.358Z"
+    },
+    {
+      "id": 1739466346159,
+      "userId": 642238280,
+      "products": [
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": [],
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 460,
+      "deliveryType": "delivery",
+      "phone": "79287694712",
+      "address": "Платова 6а",
+      "status": "new",
+      "createdAt": "2025-02-13T17:05:46.159Z"
+    },
+    {
+      "id": 1739499324411,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-14T02:15:24.411Z"
+    },
+    {
+      "id": 1739500035670,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "1111",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-14T02:27:15.670Z"
+    },
+    {
+      "id": 1739501213348,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-14T02:46:53.348Z"
+    },
+    {
+      "id": 1739501324973,
+      "userId": 5906119921,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 300,
+      "deliveryType": "pickup",
+      "phone": "9533323599",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-14T02:48:44.973Z"
+    },
+    {
+      "id": 1739554008644,
+      "userId": 758564121,
+      "products": [
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 230,
+      "deliveryType": "pickup",
+      "phone": "+79939502328",
+      "address": null,
+      "status": "new",
+      "createdAt": "2025-02-14T17:26:48.644Z"
+    },
+    {
+      "id": 1739554063619,
+      "userId": 758564121,
+      "products": [
+        {
+          "name": "Крылышки 6шт",
+          "price": 300,
+          "description": "Куриные крылышки в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438772298,
+          "photoId": "AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438772243_AgACAgIAAxkBAAIBkGeturS4YexYK-aG_kVBdpF8gEmMAALp6jEb3IRwSVD1uQFYbc0iAQADAgADeQADNgQ.jpg",
+          "finalPrice": 300,
+          "addedIngredients": [],
+          "removedIngredients": []
+        },
+        {
+          "name": "Сырные палочки 6шт",
+          "price": 230,
+          "description": "Сыр моцарелла в панировке.",
+          "ingredients": [],
+          "removableIngredients": [],
+          "id": 1739438733754,
+          "photoId": "AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ",
+          "photoUrl": "https://shavuha.rollyk.ru/api/images/1739438733703_AgACAgIAAxkBAAIBiWetuo2w19UhtG0KvzeHph1cAie4AALl6jEb3IRwSY1GoKtllbpbAQADAgADeQADNgQ.jpg",
+          "finalPrice": 230,
+          "addedIngredients": [],
+          "removedIngredients": []
+        }
+      ],
+      "totalPrice": 530,
+      "deliveryType": "delivery",
+      "phone": "+79939502328",
+      "address": "Платова 5",
+      "status": "new",
+      "createdAt": "2025-02-14T17:27:43.619Z"
+    }
+  ]
+}
