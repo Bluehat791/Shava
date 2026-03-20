@@ -1,0 +1,926 @@
+{
+  "snacks": [
+    {
+      "name": "Сырные палочки 6шт",
+      "price": 260,
+      "description": "Сыр моцарелла в панировке.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747801294,
+      "photoId": "AgACAgIAAxkBAAIspGhaSpj-vQM-mqGHybz06IBcs3nCAAKO8zEb9KnYSvhsg0tvJCksAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747801017_AgACAgIAAxkBAAIspGhaSpj-vQM-mqGHybz06IBcs3nCAAKO8zEb9KnYSvhsg0tvJCksAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Роял фри",
+      "price": 270,
+      "description": "Картофель фри, бекон, сырный соус, барбекю соус.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747889720,
+      "photoId": "AgACAgIAAxkBAAIssGhaSvEjjav1I_dzk7oVhFnOr8EUAAKT8zEb9KnYSpH8rlRNgPJDAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747889476_AgACAgIAAxkBAAIssGhaSvEjjav1I_dzk7oVhFnOr8EUAAKT8zEb9KnYSpH8rlRNgPJDAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Крылышки 6шт",
+      "price": 340,
+      "description": "Куриные крылышки в панировке.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747920680,
+      "photoId": "AgACAgIAAxkBAAIsqGhaSszD9MWa56hNEw-nVBGm67naAAKQ8zEb9KnYSvAbH3tskKw3AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747920385_AgACAgIAAxkBAAIsqGhaSszD9MWa56hNEw-nVBGm67naAAKQ8zEb9KnYSvAbH3tskKw3AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Картофель фри",
+      "price": 160,
+      "description": "Картофель фри, соль, специи.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747949781,
+      "photoId": "AgACAgIAAxkBAAIswmhaSy21vNjTatT3vES0-ztpMtz5AAKU8zEb9KnYSqDGKuWiaGVPAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747949552_AgACAgIAAxkBAAIswmhaSy21vNjTatT3vES0-ztpMtz5AAKU8zEb9KnYSqDGKuWiaGVPAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Картофель по деревенский",
+      "price": 180,
+      "description": "Картофель по деревенский, соль, специи.",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747972437,
+      "photoId": "AgACAgIAAxkBAAIsy2haS0NJAwiWVefILTkSBOJJfLMJAAKV8zEb9KnYSjYZvU-Hvn4PAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747972203_AgACAgIAAxkBAAIsy2haS0NJAwiWVefILTkSBOJJfLMJAAKV8zEb9KnYSjYZvU-Hvn4PAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Наггетсы 10шт",
+      "price": 370,
+      "description": "Куренные Наггетсы в панировке",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750747993811,
+      "photoId": "AgACAgIAAxkBAAIs1GhaS1k_v7SE98L0WFZEF0hZJ7rqAAKW8zEb9KnYSl5qaDMX8T1rAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750747993579_AgACAgIAAxkBAAIs1GhaS1k_v7SE98L0WFZEF0hZJ7rqAAKW8zEb9KnYSl5qaDMX8T1rAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Наггетсы 5шт",
+      "price": 190,
+      "description": "Куриное Наггетсы в панировки",
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748018779,
+      "photoId": "AgACAgIAAxkBAAIs32haS3LgrGKayeornVGyMhs68uSpAAKX8zEb9KnYSjGT-EqawAlSAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748018550_AgACAgIAAxkBAAIs32haS3LgrGKayeornVGyMhs68uSpAAKX8zEb9KnYSjGT-EqawAlSAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "9 Шт Креветки в панировки",
+      "price": 490,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748045186,
+      "photoId": "AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748044881_AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "6 Шт Креветки в панировке",
+      "price": 350,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748074718,
+      "photoId": "AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748074417_AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "mainMenu": [
+    {
+      "name": "Гирос острый",
+      "price": 360,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, соус острый.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748596979,
+      "photoId": "AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748596709_AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос Тейсти",
+      "price": 360,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, тейсти соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748619766,
+      "photoId": "AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748619535_AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос классический",
+      "price": 360,
+      "description": "Греческая пита, куриное филе, помидор, картофель фри, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748655521,
+      "photoId": "AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748655284_AgACAgIAAxkBAAIthWhaTbSPpAyhiw6jsK2s65Ty8sUeAALK_TEbURjQSjBGJzHCjCvqAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос тортилья острый",
+      "price": 360,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, острый соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748690781,
+      "photoId": "AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748690536_AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос тортилья Тейсти",
+      "price": 360,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, Тейсти соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748722661,
+      "photoId": "AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748722409_AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гирос тортилья",
+      "price": 360,
+      "description": "Сырная тортилья, куриное филе, помидор, картофель фри, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748744633,
+      "photoId": "AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748744407_AgACAgIAAxkBAAItomhaThJf1ck1b30z6YBp4BGQgrw5AALM_TEbURjQSmnnyu7rb3z9AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гамбургер",
+      "price": 360,
+      "description": "Булочка с кунжутом, говяжья котлета, маринованы огурец, лист салата,два сыра, репчатый лук, соус.",
+      "ingredients": [
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        },
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748781413,
+      "photoId": "AgACAgIAAxkBAAItvWhaTmxmwEyxSfEVkVrARSEcVtaOAAK38zEb9KnYSiSAhGtog_DeAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748781184_AgACAgIAAxkBAAItvWhaTmxmwEyxSfEVkVrARSEcVtaOAAK38zEb9KnYSiSAhGtog_DeAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Чикенбургер",
+      "price": 310,
+      "description": "Булочка с кунжутом, куриная котлета, лист салата, сыр, помидор, два вида соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748827580,
+      "photoId": "AgACAgIAAxkBAAItxmhaTptWP5UTDPkq3cZ-JCTijsJTAAK48zEb9KnYStJM6_-UX5auAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748827350_AgACAgIAAxkBAAItxmhaTptWP5UTDPkq3cZ-JCTijsJTAAK48zEb9KnYStJM6_-UX5auAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Хот-дог",
+      "price": 230,
+      "description": "Хрустящая булочка, сосиска куриная, помидор, маринованный огурец, пекинская капуста, морковь по корейски, фирменный соус, кетчуп.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748869100,
+      "photoId": "AgACAgIAAxkBAAItz2haTsQ5_vY7GDc8ScWhvMbp_C4vAAK58zEb9KnYSiSh7KwpRFgBAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748868826_AgACAgIAAxkBAAItz2haTsQ5_vY7GDc8ScWhvMbp_C4vAAK58zEb9KnYSiSh7KwpRFgBAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Шаурма на тарелке",
+      "price": 360,
+      "description": "Греческая пита, куриное филе, помидоры, огурцы, пекинская капуста, лук, картошка фри, морковь по корейски, фирменный соус.",
+      "ingredients": [],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        }
+      ],
+      "id": 1750748932007,
+      "photoId": "AgACAgIAAxkBAAIt2GhaTwOENdHPboKllICBu2eMt04gAAK98zEb9KnYSj8yqg2Zw6YVAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748931729_AgACAgIAAxkBAAIt2GhaTwOENdHPboKllICBu2eMt04gAAK98zEb9KnYSj8yqg2Zw6YVAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Донар",
+      "price": 340,
+      "description": "Греческая без дрожжевая пита, куриное филе, помидоры, свежий огурец, пекинская капуста, морковь по корейский, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750748963493,
+      "photoId": "AgACAgIAAxkBAAIt4WhaTyKBkDSL-2t5kHFjYZuQs10SAALA8zEb9KnYSv16cYxR9zh_AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748963242_AgACAgIAAxkBAAIt4WhaTyKBkDSL-2t5kHFjYZuQs10SAALA8zEb9KnYSv16cYxR9zh_AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Фахитос",
+      "price": 340,
+      "description": "Булочка с кунжутом, куриное филе,оливки , маслины, кукуруза, фирменный соус.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749008907,
+      "photoId": "AgACAgIAAxkBAAIt6mhaT1D7xntVuiUgJmJ2wh2nmqRqAALk9jEbIDLRSp3gQKEnaQ7QAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749008621_AgACAgIAAxkBAAIt6mhaT1D7xntVuiUgJmJ2wh2nmqRqAALk9jEbIDLRSp3gQKEnaQ7QAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Маленькая шаурма",
+      "price": 300,
+      "description": "Хрустящий лаваш, куриное филе, помидор, свежий огурец, пекинская капуста,картошка фри, фирменный соус",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749040245,
+      "photoId": "AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749040015_AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Бртуч",
+      "price": 400,
+      "description": "Лаваш, куриное филе, помидоры, огурцы, капуста, пекинская капуста, петрушка, кинза, укроп, лук зеленый, перец острый, перец болгарский, сыр двойной, соус фирменный",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749068226,
+      "photoId": "AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749067978_AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Большая шаурма",
+      "price": 340,
+      "description": "Хрустящий лаваш, куриное филе, помидор, свежий огурец, пекинская капуста,картошка фри, фирменный соус",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749068226,
+      "photoId": "AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749067978_AgACAgIAAxkBAAIt82haT28fSf0Ees68BsqEQA0woVsgAALB8zEb9KnYSq3hy7SD6n6mAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Гамбургер с яйцом",
+      "price": 400,
+      "description": "Булочка с кунжутом, говяжья котлета, два сыра, маринов. огурцы, лист салата, репчатый лук, помидор, соус, жаренное яйцо, паприка, соль.",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749096652,
+      "photoId": "AgACAgIAAxkBAAIuBWhaT6ikAgclEcKtt_QRJ0nQUV09AALE8zEb9KnYSj9aOjXhRJoFAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749096348_AgACAgIAAxkBAAIuBWhaT6ikAgclEcKtt_QRJ0nQUV09AALE8zEb9KnYSj9aOjXhRJoFAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Сэндвич с курицей",
+      "price": 230,
+      "description": "Тостовый хлеб, курица, лист салат, помидор, огурец, лук, соус Тейсти.!",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749148247,
+      "photoId": "AgACAgIAAxkBAAIuFmhaT9v8SOxxOUYIgM9zw9C2Hvh0AALU_TEbURjQSu7yK5wAASlIAwEAAwIAA3kAAzYE",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749147974_AgACAgIAAxkBAAIuFmhaT9v8SOxxOUYIgM9zw9C2Hvh0AALU_TEbURjQSu7yK5wAASlIAwEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Рол с креветками",
+      "price": 400,
+      "description": "Сырная тортилья, креветки в панировки, помидор, огурец, салат айсберг, нежный соус на основе майонеза",
+      "ingredients": [
+        {
+          "id": "1750737127624",
+          "name": "Добавить халапеньо",
+          "price": 50
+        },
+        {
+          "id": "1757737127625",
+          "name": "Добавить сыр",
+          "price": 50
+        },
+        {
+          "id": "1757737127999",
+          "name": "Добавить бекон",
+          "price": 60
+        },
+        {
+          "id": "17507491276123",
+          "name": "Острый соус",
+          "price": 25
+        }
+      ],
+      "removableIngredients": [
+        {
+          "id": "onion",
+          "name": "Лук"
+        },
+        {
+          "id": "tomato",
+          "name": "Помидор"
+        }
+      ],
+      "id": 1750749189009,
+      "photoId": "AgACAgIAAxkBAAIuH2haUASgYfG80MmYQbJhNk0zyizBAAJl9zEbCeXQSkss3mHCLUJuAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750749188733_AgACAgIAAxkBAAIuH2haUASgYfG80MmYQbJhNk0zyizBAAJl9zEbCeXQSkss3mHCLUJuAQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Флеш",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748100244,
+      "photoId": "AgACAgIAAxkBAAIs-mhaS8P88kjXw_nHm8HYSH0aAAF1ygACnfMxG_Sp2EpWsCq66Jh1CgEAAwIAA3gAAzYE",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748100057_AgACAgIAAxkBAAIs-mhaS8P88kjXw_nHm8HYSH0aAAF1ygACnfMxG_Sp2EpWsCq66Jh1CgEAAwIAA3gAAzYE.jpg"
+    },
+    {
+      "name": "Адреналин",
+      "price": 160,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748141919,
+      "photoId": "AgACAgIAAxkBAAIs_mhaS9SPU_2L7ydELQnEmOrqtteTAAKf8zEb9KnYStOtaqA1WUF4AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748141689_AgACAgIAAxkBAAIs_mhaS9SPU_2L7ydELQnEmOrqtteTAAKf8zEb9KnYStOtaqA1WUF4AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Кола 0.33",
+      "price": 80,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748166331,
+      "photoId": "AgACAgIAAxkBAAItEGhaTAU9nqg8YVgJOidX-trxHyrEAAKg8zEb9KnYSsme50g6PWlFAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748166141_AgACAgIAAxkBAAItEGhaTAU9nqg8YVgJOidX-trxHyrEAAKg8zEb9KnYSsme50g6PWlFAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Кола 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748193012,
+      "photoId": "AgACAgIAAxkBAAItGWhaTCA5fBeiWCvvSgFlW5o8CYGmAAKh8zEb9KnYSsK0Avpl2UZ8AQADAgADeAADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748192828_AgACAgIAAxkBAAItGWhaTCA5fBeiWCvvSgFlW5o8CYGmAAKh8zEb9KnYSsK0Avpl2UZ8AQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Кола 0.9",
+      "price": 130,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748246817,
+      "photoId": "AgACAgIAAxkBAAItImhaTFZk7OGEntpKEJW0RNIUyP9lAAKk8zEb9KnYSm0-3oITDvoQAQADAgADeAADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748246613_AgACAgIAAxkBAAItImhaTFZk7OGEntpKEJW0RNIUyP9lAAKk8zEb9KnYSm0-3oITDvoQAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Бонаква газ/негаз. 0.5",
+      "price": 65,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748272446,
+      "photoId": "AgACAgIAAxkBAAItK2haTHC3-QzgtdaPJwKJ2Ef1Ydh4AAKm8zEb9KnYShgTB5v1oPzOAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748272245_AgACAgIAAxkBAAItK2haTHC3-QzgtdaPJwKJ2Ef1Ydh4AAKm8zEb9KnYShgTB5v1oPzOAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Чай чёрный рич 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748296787,
+      "photoId": "AgACAgIAAxkBAAItNGhaTIhfUQbXlhSLAAHvaVShErMCCQACp_MxG_Sp2Ep-UVMVxFjr1gEAAwIAA3kAAzYE",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748296565_AgACAgIAAxkBAAItNGhaTIhfUQbXlhSLAAHvaVShErMCCQACp_MxG_Sp2Ep-UVMVxFjr1gEAAwIAA3kAAzYE.jpg"
+    },
+    {
+      "name": "Чай зелёный рич 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748319526,
+      "photoId": "AgACAgIAAxkBAAItPWhaTJ_DC6ifqyiVq3Qv79lS0tLbAAKo8zEb9KnYSk57dkTFm4ejAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748319340_AgACAgIAAxkBAAItPWhaTJ_DC6ifqyiVq3Qv79lS0tLbAAKo8zEb9KnYSk57dkTFm4ejAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Фанта 0.9",
+      "price": 130,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748347683,
+      "photoId": "AgACAgIAAxkBAAItRmhaTLtRvxg_4WVhosFph1hAem1pAAKp8zEb9KnYSkd_ZpQ6p9WCAQADAgADeAADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748347498_AgACAgIAAxkBAAItRmhaTLtRvxg_4WVhosFph1hAem1pAAKp8zEb9KnYSkd_ZpQ6p9WCAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Фанта 0.33",
+      "price": 80,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748367833,
+      "photoId": "AgACAgIAAxkBAAItT2haTM_f_4QxSqQ27TNIeEULfOPuAAKq8zEb9KnYSi1hK24JXV2ZAQADAgADeAADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748367586_AgACAgIAAxkBAAItT2haTM_f_4QxSqQ27TNIeEULfOPuAAKq8zEb9KnYSi1hK24JXV2ZAQADAgADeAADNgQ.jpg"
+    },
+    {
+      "name": "Фанта 0.5",
+      "price": 100,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748389564,
+      "photoId": "AgACAgIAAxkBAAItWGhaTOXZEH4jQousaK8tC5_e2Lx3AAKr8zEb9KnYSsxs_0B4Rt-QAQADAgADeAADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748389364_AgACAgIAAxkBAAItWGhaTOXZEH4jQousaK8tC5_e2Lx3AAKr8zEb9KnYSsxs_0B4Rt-QAQADAgADeAADNgQ.jpg"
+    }
+  ],
+  "sauces": [
+    {
+      "name": "Соус сырный",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748420782,
+      "photoId": "AgACAgIAAxkBAAItYWhaTQQ9Rm3nBh3aj3llo81e15SVAAKu8zEb9KnYSt9771hOjhU7AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748420532_AgACAgIAAxkBAAItYWhaTQQ9Rm3nBh3aj3llo81e15SVAAKu8zEb9KnYSt9771hOjhU7AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Барбекю соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748449278,
+      "photoId": "AgACAgIAAxkBAAItamhaTSB8milK8knHPD-9HnCGA78fAAKv8zEb9KnYSm9iOwLoh2e5AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748448999_AgACAgIAAxkBAAItamhaTSB8milK8knHPD-9HnCGA78fAAKv8zEb9KnYSm9iOwLoh2e5AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Терияки соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748471825,
+      "photoId": "AgACAgIAAxkBAAItc2haTTcZllXHCYTlys0lJ6bcHGISAAKw8zEb9KnYSkoYoBK_DBE_AQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748471547_AgACAgIAAxkBAAItc2haTTcZllXHCYTlys0lJ6bcHGISAAKw8zEb9KnYSkoYoBK_DBE_AQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Томатный соус",
+      "price": 40,
+      "ingredients": [],
+      "removableIngredients": [],
+      "id": 1750748494873,
+      "photoId": "AgACAgIAAxkBAAItfGhaTU5ZrH364KWRwpi-BE6TUl86AAKy8zEb9KnYSpmCWerzuaUpAQADAgADeQADNgQ",
+      "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748494633_AgACAgIAAxkBAAItfGhaTU5ZrH364KWRwpi-BE6TUl86AAKy8zEb9KnYSpmCWerzuaUpAQADAgADeQADNgQ.jpg"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "1750749127624",
+      "name": "Убрать лук",
+      "price": 0
+    }
+  ],
+  "currentCategory": null
+}

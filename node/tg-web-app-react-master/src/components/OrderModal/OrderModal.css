@@ -1,0 +1,101 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    background: var(--tg-theme-bg-color, #2c3e50);
+    padding: 20px;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 500px;
+}
+
+.modal-content h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    color: var(--tg-theme-text-color, #fff);
+    font-size: 15px;
+}
+
+.delivery-type {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.delivery-type label {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--tg-theme-hint-color, #95a5a6);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: var(--tg-theme-hint-color, #95a5a6);
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: var(--tg-theme-bg-color, #273748);
+    color: var(--tg-theme-hint-color, #95a5a6);
+}
+
+.form-group textarea {
+    height: 80px;
+    resize: vertical;
+}
+
+.total-price {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: right;
+}
+
+.modal-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.modal-buttons button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(135deg, #fc4a1a, #f7b733);
+}
+
+.modal-buttons button[type="button"] {
+    background: linear-gradient(135deg, #fc4a1a, #f7b733);
+    color: white;
+}
+
+.modal-buttons button[type="submit"] {
+    background: linear-gradient(135deg, #fc4a1a, #f7b733);
+    color: white;
+}
+
+.modal-buttons button:disabled {
+    background: #cccccc;
+    cursor: not-allowed;
+} 
