@@ -10,7 +10,7 @@ const token = process.env.TG_TOKEN;
 
 const webAppUrl = 'https://node.shavukha-aksay.ru/';
 
-const bot = new TelegramBot(token, {polling: true});
+const bot = new TelegramBot(token, {polling: false});
 const app = express();
 
 // Добавим состояние для отслеживания процесса добавления товара
@@ -931,3 +931,15 @@ console.log('Self ID:', process.env.SELF_ID);
 const PORT = 8800;
 
 app.listen(PORT, () => console.log('server started on PORT ' + PORT))
+
+// Установка webhook
+const webhookUrl = 'https://shavukha-aksay.ru/webhook';
+bot.setWebHook(webhookUrl)
+    .then(() => console.log('✅ Webhook успешно установлен:', webhookUrl))
+    .catch(err => console.error('Webhook error:', err));
+
+// Обработчик webhook
+app.post('/webhook', (req, res) => {
+    bot.processUpdate(req.body);
+    res.sendStatus(200);
+});
