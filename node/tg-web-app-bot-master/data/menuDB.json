@@ -87,6 +87,22 @@
       "id": 1750748074718,
       "photoId": "AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ",
       "photoUrl": "https://node.shavukha-aksay.ru/api/images/1750748074417_AgACAgIAAxkBAAIs6GhaS4zJfRJXCvg854bYwhkTRmiiAAKY8zEb9KnYSlgLS0ddZeeNAQADAgADeQADNgQ.jpg"
+    },
+    {
+      "name": "Памело",
+      "price": 18,
+      "description": "Фрукт",
+      "ingredients": [
+        {
+          "id": "1750749127624",
+          "name": "Убрать лук",
+          "price": 0
+        }
+      ],
+      "removableIngredients": [],
+      "id": 1774360503432,
+      "photoId": "AgACAgIAAxkBAAJrG2nClqZ22D1OvtsxVDCYlZLdZqa_AAIBE2sbWIgJSvavxDNuvbc_AQADAgADeQADOgQ",
+      "photoUrl": "https://shavukha-aksay.ru/images/1774360502854_AgACAgIAAxkBAAJrG2nClqZ22D1OvtsxVDCYlZLdZqa_AAIBE2sbWIgJSvavxDNuvbc_AQADAgADeQADOgQ.jpg"
     }
   ],
   "mainMenu": [
